@@ -1,5 +1,5 @@
 {
-  "name": "ramen-adonis-datamodel",
+  "name": "@ordentco/ramen-adonis-datamodel",
   "version": "0.1.10",
   "main": "index.js",
   "description": "Part of ramen package. This package contains base model class for firestore data.",
@@ -16,7 +16,8 @@
   "devDependencies": {
     "@adonisjs/ace": "^5.0.8",
     "@adonisjs/fold": "^4.0.9",
-    "@adonisjs/generic-exceptions": "^3.0.1"
+    "@adonisjs/generic-exceptions": "^3.0.1",
+    "eslint": "^7.4.0"
   },
   "dependencies": {
     "@google-cloud/firestore": "^3.3.4",
